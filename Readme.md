@@ -95,13 +95,10 @@ It is possible to improve this proxy. You can re-write your own FTP proxy with t
 
 ## Deadline and Submission
 - Submission deadline: **2017/1/15 23:59.** Late submission is not accepted.
-
-- Please compress all your code file as a **zip** file and upload to ilms. Also upload the report in **PDF** separately.
+- Please compress all your code file as a **ZIP** file and upload to ilms. Also upload the report in **PDF** separately.
   - Name of the zip file: `<team_number>.zip`
   - Name of the report: `<team_number>.pdf`
-
 - Demo time: **2017/1/16 - 2017/1/17**. We will annouce the detailed time and place later.
-
 - **DO NOT** copy other’s code, or your team will get zero point.
 - Please do some researches and start this project early.
 - E-mail to TAs if you have questions about spec of final project.
