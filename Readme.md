@@ -30,7 +30,7 @@ Information about our FTP server as below
 ### FTP Proxy
 TAs will provide an incomplete sample code of FTP proxy. You must trace the code, try to figure out how the proxy works and **finish the incomplete part**. You can run **localhost (127.0.0.1) proxy** on your own Unix-like or Linux machine.
 
-Sample code of proxy: FTP-Proxy
+Template code of proxy: [FTP-Proxy](https://github.com/HSNL-TAs/2016-ITCN-FTP-Proxy-Template)
 
 ### FTP Client
 If you have run up a proxy on localhost with port 8888 (`127.0.0.1:8888`) and want to use Filezilla to connect to your proxy, following are setting examples:
