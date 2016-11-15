@@ -55,11 +55,12 @@ If you have run up a **proxy on localhost with port 8888 (127.0.0.1:8888)** and 
 
 #### Ranking and Performance Defintion (40%)
 
-##### Performance Defintion
+**Performance Defintion**
 
 Performance = | Actual average transmission rate via proxy - expected transmission rate |
 
-##### Testcases
+**Testcases**
+
 - The first 2 test cases be released before demo time. one case is for uploading rate, and another one is for downloading rate.
   - First testcase:
     - Expected downloading rate: **200 KBtyes/s.**
