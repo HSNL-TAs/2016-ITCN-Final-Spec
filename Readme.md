@@ -21,8 +21,8 @@ Three main components:
 
 ### FTP Server
 Information about our FTP server as below
-- IP address and port: **140.114.71.159:8740**
-- User/Password: **lab/lab**
+- IP address and port: `140.114.71.159:8740`
+- User/Password: `lab/lab`
 - Please use **Passive mode** to connect to the server.
 - **FTP without TLS** (no encryption).
 
@@ -33,7 +33,7 @@ TAs will provide an incomplete sample code of FTP proxy. You must trace the code
 Sample code of proxy: FTP-Proxy
 
 ### FTP Client
-If you have run up a **proxy on localhost with port 8888 (127.0.0.1:8888)** and want to use Filezilla to connect to your proxy, following are setting examples:
+If you have run up a proxy on localhost with port 8888 (`127.0.0.1:8888`) and want to use Filezilla to connect to your proxy, following are setting examples:
 
 ![](https://raw.githubusercontent.com/HSNL-TAs/2016-ITCN-Final-Spec/master/img/ftp_setting.png)
 ![](https://raw.githubusercontent.com/HSNL-TAs/2016-ITCN-Final-Spec/master/img/pasv_mode.png)
@@ -57,16 +57,16 @@ If you have run up a **proxy on localhost with port 8888 (127.0.0.1:8888)** and 
 
 #### Performance Defintion
 
-Performance = | Actual average transmission rate via proxy - expected transmission rate |
+**`Performance = | Actual average transmission rate via proxy - expected transmission rate |`**
 
 #### Testcases
 
-- The first 2 test cases be released before demo time. one case is for uploading rate, and another one is for downloading rate.
+- The first 2 testcases be released before demo time. One case is for downloading rate, and another one is for uploading rate.
   - First testcase:
-    - Expected downloading rate: **200 KBtyes/s.**
+    - Expected **downloading** rate: **200 KBtyes/s.**
     - File: You can download the testcase file from the **download** folder in FTP.
   - Second testcase:
-    - Expected uploading rate: **100 KBytes/s.**
+    - Expected **uploading** rate: **100 KBytes/s.**
     - File: Upload the testcase file (You can download it from download folder) to the **upload** folder.
 
 - There are also 2 hidden test cases, which will be released on demo time.
@@ -78,7 +78,7 @@ Performance = | Actual average transmission rate via proxy - expected transmissi
   | Score |  100  |  90   |  80     |  70     |  60     |
 
 Then your score in this part will be
-40% * (average score of the first 2 testcase ) + 60% * (average score of 2 hidden testcase)
+**`40% * (average score of the first 2 testcases ) + 60% * (average score of 2 hidden testcases)`**
 
 ### Report (35%)
 Your report must includes the following contents.
