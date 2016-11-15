@@ -17,7 +17,7 @@ Three main components:
 
 <br>
 
-![](ftp_proxy_scenario.png)
+![](https://raw.githubusercontent.com/HSNL-TAs/2016-ITCN-Final-Spec/master/img/ftp_proxy_scenario.png)
 
 ### FTP Server
 Information about our FTP server as below
@@ -35,8 +35,8 @@ Sample code of proxy: FTP-Proxy
 ### FTP Client
 If you have run up a **proxy on localhost with port 8888 (127.0.0.1:8888)** and want to use Filezilla to connect to your proxy, following are setting examples:
 
-![](FTP_setting.png)
-![](Pasv_mode.png)
+![](https://raw.githubusercontent.com/HSNL-TAs/2016-ITCN-Final-Spec/master/img/ftp_setting.png)
+![](https://raw.githubusercontent.com/HSNL-TAs/2016-ITCN-Final-Spec/master/img/pasv_mode.png)
 
 ## FTP Proxy Specfication
 - FTP Proxy must be written in C/C++. Any other languages will not be accecpted.
