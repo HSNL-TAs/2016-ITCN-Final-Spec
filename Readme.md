@@ -63,13 +63,13 @@ If you have run up a proxy on localhost with port 8888 (`127.0.0.1:8888`) and wa
 
 - The first 2 testcases be released before demo time. One case is for downloading rate, and another one is for uploading rate.
   - First testcase:
-    - Expected **downloading** rate: **200 KBtyes/s.**
+    - Expected **downloading** rate: **50 KBtyes/s (400 kbits/sec).**
     - File: You can download the testcase file from the **download** folder in FTP.
   - Second testcase:
-    - Expected **uploading** rate: **100 KBytes/s.**
+    - Expected **uploading** rate: **25 KBytes/s (200 kbits/sec).**
     - File: Upload the testcase file (You can download it from download folder) to the **upload** folder.
 
-- There are also 2 hidden test cases, which will be released on demo time.
+- There are also **2 hidden test cases**, which will be released on demo time.
 
 - For each test case, your team have only two chance to run your proxy, TA will chose the one with the best performance. Then, your rank will be mapped to a score with following table.
 
